@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Competitive+Programmer;Full+Stack+Developer;Backend+Development+Enthusiast;1200%2B+DSA+Problems+Solved" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;1200%2B+DSA+Problems+Solved" 
       alt="Typing SVG" 
     />
   </a>
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at **Nirma University**
-- 💻 Passionate about **Full Stack Development** & **Backend Systems**
+- 💻 Passionate about **Full Stack Development** 
 - 🧠 Solved **1200+ DSA Problems**
 - 🏆 **Codeforces Pupil**
 - 🌱 Currently learning scalable backend architecture
