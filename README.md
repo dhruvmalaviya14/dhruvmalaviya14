@@ -14,10 +14,9 @@
 ##  About Me
 
 -  B.Tech CSE Student at **Nirma University**
--  Passionate about **Full Stack Development**
 -  Solved **1200+ DSA Problems across Leetcode, Codeforces and Codechef**
+-  Passionate about **Full Stack Development**
 -  **Pupil at Codeforces and 2 star at codechef**
--  Currently learning scalable backend architecture
 -  Love building real-world projects
 
 ---
