@@ -191,15 +191,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dhruvmalaviya14/dhruvmalaviya14/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
