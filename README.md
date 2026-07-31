@@ -11,14 +11,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech CSE Student at **Nirma University**
-- 💻 Passionate about **Full Stack Development**
-- 🧠 Solved **1200+ DSA Problems across Leetcode, Codeforces and Codechef**
-- 🏆 **Pupil at Codeforces and 2 star at codechef**
-- 🌱 Currently learning scalable backend architecture
-- ⚡ Love building real-world projects
+-  B.Tech CSE Student at **Nirma University**
+-  Passionate about **Full Stack Development**
+-  Solved **1200+ DSA Problems across Leetcode, Codeforces and Codechef**
+-  **Pupil at Codeforces and 2 star at codechef**
+-  Currently learning scalable backend architecture
+-  Love building real-world projects
 
 ---
 
@@ -154,7 +154,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌿 Yajveer Ayurveda – Full Stack E-commerce Website
+### 🌱 Yajveer Ayurveda – Full Stack E-commerce Website
 
 - Built a live Ayurvedic e-commerce platform with admin panel
 - Developed responsive frontend and scalable backend
